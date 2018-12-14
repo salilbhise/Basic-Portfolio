@@ -83,8 +83,6 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
    * The entire content and the main section content area is `960px` wide.
    * Pro-tip: Use the [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension to measure the size of elements.
 
-   ![Recommended Dimensions](Images/Recommended-Dimensions.png)
-
 ### Bonus
 
 1. Make your pages more sophisticated by adding style to text links, to image links, and to buttons for when a user hovers their cursor over them. A CSS hover tutorial can be found [here](http://www.codeitpretty.com/2013/06/how-to-use-css-hover-effects.html).
